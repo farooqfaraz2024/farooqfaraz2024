@@ -28,7 +28,7 @@ Portfolio projects on public or synthetic data. They mirror the kind of work I d
 | [**recharge-forecast**](https://github.com/farooqfaraz2024/recharge-forecast) | Bayesian forecast of monthly prepaid recharge revenue as a range, with the probability of hitting target; validated on hidden data | Python, PyMC, Monte Carlo | [Report](https://farooqfaraz2024.github.io/recharge-forecast/) |
 | [**recharge-channel-analytics**](https://github.com/farooqfaraz2024/recharge-channel-analytics) | Interactive dashboard: channel mix, payment shift, denominations, salary-cycle heatmaps and automatic anomaly detection | Python, Plotly, Streamlit | [Dashboard](https://farooqfaraz2024.github.io/recharge-channel-analytics/) |
 | [**app-engagement-churn**](https://github.com/farooqfaraz2024/app-engagement-churn) | Mobile-app churn early warning on GA4 event data: Python and BigQuery ML versions, daily scoring and model monitoring | Python, BigQuery, BigQuery ML, scikit-learn | [Report](https://farooqfaraz2024.github.io/app-engagement-churn/) |
-
+| [**tracking-plan-as-code**](https://github.com/farooqfaraz2024/tracking-plan-as-code) | GA4/Firebase tracking plan as code: validates app and web events, catches personal data and broken releases, blocks breaking changes in CI, generates the spec and developer code | Python, GA4, BigQuery, JavaScript, GitHub Actions | [Scorecard](https://farooqfaraz2024.github.io/tracking-plan-as-code/) · [Spec](https://farooqfaraz2024.github.io/tracking-plan-as-code/spec.html) |
 ---
 
 ## 📈 Selected impact
