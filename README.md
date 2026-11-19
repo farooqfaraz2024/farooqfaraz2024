@@ -29,7 +29,7 @@ Portfolio projects on public or synthetic data. They mirror the kind of work I d
 | [**recharge-channel-analytics**](https://github.com/farooqfaraz2024/recharge-channel-analytics) | Interactive dashboard: channel mix, payment shift, denominations, salary-cycle heatmaps and automatic anomaly detection | Python, Plotly, Streamlit | [Dashboard](https://farooqfaraz2024.github.io/recharge-channel-analytics/) |
 | [**app-engagement-churn**](https://github.com/farooqfaraz2024/app-engagement-churn) | Mobile-app churn early warning on GA4 event data: Python and BigQuery ML versions, daily scoring and model monitoring | Python, BigQuery, BigQuery ML, scikit-learn | [Report](https://farooqfaraz2024.github.io/app-engagement-churn/) |
 | [**tracking-plan-as-code**](https://github.com/farooqfaraz2024/tracking-plan-as-code) | GA4/Firebase tracking plan as code: validates app and web events, catches personal data and broken releases, blocks breaking changes in CI, generates the spec and developer code | Python, GA4, BigQuery, JavaScript, GitHub Actions | [Scorecard](https://farooqfaraz2024.github.io/tracking-plan-as-code/) · [Spec](https://farooqfaraz2024.github.io/tracking-plan-as-code/spec.html) |
----
+[**jira-sprint-analytics**](https://github.com/farooqfaraz2024/jira-sprint-analytics) | Sprint delivery dashboard for a 47-person multi-team digital organisation: commitment vs delivery, team load, capacity spent on sales and change requests, flow time and quality, with automatic insights | Python, pandas, Plotly, Streamlit | Run locally |
 
 ## 📈 Selected impact
 
