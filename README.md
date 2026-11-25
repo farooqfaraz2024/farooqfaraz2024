@@ -58,6 +58,7 @@ Portfolio projects on public or synthetic data. They mirror the kind of work I d
 
 **Data platforms & engineering**
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white)
@@ -83,6 +84,7 @@ Portfolio projects on public or synthetic data. They mirror the kind of work I d
 
 **Digital & product analytics**
 ![GA4](https://img.shields.io/badge/GA4_/_Firebase-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat&logo=amplitude&logoColor=white)
 ![GTM](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
 ![Contentsquare](https://img.shields.io/badge/Contentsquare-2F3A8F?style=flat)
 ![Quantum Metric](https://img.shields.io/badge/Quantum_Metric-1B1F3B?style=flat)
@@ -92,7 +94,6 @@ Portfolio projects on public or synthetic data. They mirror the kind of work I d
 ![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **Currently learning** 📚
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
