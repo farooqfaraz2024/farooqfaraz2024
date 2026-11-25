@@ -84,7 +84,7 @@ Portfolio projects on public or synthetic data. They mirror the kind of work I d
 
 **Digital & product analytics**
 ![GA4](https://img.shields.io/badge/GA4_/_Firebase-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat&logo=amplitude&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat)
 ![GTM](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
 ![Contentsquare](https://img.shields.io/badge/Contentsquare-2F3A8F?style=flat)
 ![Quantum Metric](https://img.shields.io/badge/Quantum_Metric-1B1F3B?style=flat)
